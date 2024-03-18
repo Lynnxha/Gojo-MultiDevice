@@ -1,0 +1,74 @@
+KAMU NYARI APA SAYANG:)
+ENC ® BY LELIA
+
+Mau Beli Yg No Enc? Dan Dapet Free Apikey?
+Murah Kok Ga Sampe 68K Oya Dan 1 Lagi Yg Udah Pernah Beli Sc Nya Samaku Bakal Dapet Updatenya
+Wa : wa.me/0831-2098-8167
+
+•LELIA-BOTZ
+
+JANGAN HAPUS NTR ERROR LG!
+THANKS TO
+NOVI-OFFICIAL
+LELIA-MD
+FARA-BOTZ
+DINA
+CIPA
+ABIAN
+ADRIAN
+FRANS
+
+SCRIPT TERBARU NIH 2024 
+JANGAN SC JUAL ADIK ADIK
+
+SC BY NOVI-MD/
+SAHABAT/LELIA
+
+IG:Novi_Noviyyy
+Wa : wa.me/6283120988167
+YT : NOVI_NOVY
+
+BY LELIA
+IG:LELIA_LIAA
+YT:LELYIAACHAN
+WA:089658675858 INI NOMOR ADEK GW PINJAM NOMOR CUMA 
+WA GW LELIA?:0831-2098-8167 KALO NIH NOMOR GW YA SILAHKAN KLO CHAT
+NO TLP
+NO SPAM
+
+KALO ERROR BING KALO CHAT WA GW YA TANYA LELIA MASALAH KLO
+
+NO ENC BILANG AJA LIHAT DEH 🗿🗿
+
+MAU BELI PANEL? SINI LIA STORE
+WHATSAPP:0831-2098-8167 
+
+•NOVI-BOTZ
+•LELIA-QUEEN
+
+JANGAN HAPUS KONTOL
+JADI MALES EDIT KONTOL UDH UPLOAD FREE NO ENC ANJ 
+
+JANGAN DIJUAL SCNYA KNTL😡
+
+command termux
+pkg update && pkg upgrade
+pkg install bash
+pkg install nodejs
+pkg install libwebp
+pkg install imagemagick
+termux-setup-storage
+cd /sdcard
+cd file lu
+npm start
+
+<THANK To>
+https://github.com/NOVI-MD/RAIDEN'
+https://github.com/LeliaBOTZ/LEYLIA'
+https://github.com/FARRA_BTZ/FARY'
+https://github.com/TASYA-MD/TAS-BOTZ-MD'
+https://github.com/NAIELA-BOT/ELLA1'
+https://github.com/LINA-MD/LINAA-CHAN'
+https://github.com/CIPA-MULTI/CIPACANTI'
+https://github.com/DINAA7/DINO_BOTZ'
+https://github.com/VIKAMD/PIKA_CHN'
